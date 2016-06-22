@@ -43,7 +43,8 @@ import pl.umk.mat.ksiegarnia.view.services.ServicesView;
  *
  * @author Mariusz
  */
-public class AdminController {
+public class AdminController
+{
     
     /** The admin model. */
     private Admin adminModel;
